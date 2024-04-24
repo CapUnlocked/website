@@ -32,10 +32,7 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Keep up to date on all seminars and special events ›
-  style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -43,5 +40,8 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+{% include alert info='Sign up to be notified about our next event' %}              
+{% include _subscribe.html %}
 
 
