@@ -183,12 +183,6 @@
           
           
         
-
-              
-
-          
-          
-        
         
       </ul>
       
@@ -230,23 +224,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://unlockedcapital.eu//search/">Search</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="https://unlockedcapital.eu//survey/">Feedback</a></li>
+              <li><a  href="https://forms.gle/iAZdNBCfeZ5iSgLa6" target="_blank">Feedback</a></li>
 
             
             
@@ -439,16 +417,7 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		
-
-
-<script src="https://unlockedcapital.eu//assets/js/javascript.min.js"></script>
-
-
-
-
-
-
+		<script src="https://unlockedcapital.eu//assets/js/javascript.min.js"></script>
 
 
 

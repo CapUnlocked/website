@@ -15,10 +15,6 @@
   - title: "Blog"
     url: "/blog/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "Feedback"
-  url: "/survey/"
+  url: "https://forms.gle/iAZdNBCfeZ5iSgLa6"
   side: right
