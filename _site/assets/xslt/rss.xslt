@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://unlockedcapital.eu//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://unlockedcapital.eu//assets/js/modernizr.min.js"></script>
+	<script src="/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
