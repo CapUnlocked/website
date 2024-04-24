@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://unlockedcapital.eu//</id>
+	<title>unLockeD Capital</title>
+	<updated>2024-04-24T09:44:21+01:00</updated>
+
+	<subtitle>Learn how to obtain financial freedom. Break the chains of the neo-feudal financial system and unlock your capital.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>John Locke</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://unlockedcapital.eu//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://unlockedcapital.eu//" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
+
+	
+</feed>

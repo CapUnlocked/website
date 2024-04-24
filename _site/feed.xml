@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://unlockedcapital.eu//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://unlockedcapital.eu//assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>unLockeD Capital</title>
+		<description>Learn how to obtain financial freedom. Break the chains of the neo-feudal financial system and unlock your capital.</description>
+		<link>https://unlockedcapital.eu//</link>
+		<atom:link href="https://unlockedcapital.eu//feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

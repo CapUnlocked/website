@@ -1,0 +1,15 @@
+/* TEAM */
+
+Name: John Locke
+Site: https://unlockedcapital.eu/locke
+Twitter: 
+
+
+
+
+/* SITE */
+
+Last Updated: 2024/04/24
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
