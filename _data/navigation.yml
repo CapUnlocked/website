@@ -1,0 +1,24 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Upcoming events
+  url: "/upcoming events/"
+  side: left
+
+- title: Archive
+  url: "/archive/"
+  side: left
+  dropdown:
+  - title: "Previous events"
+    url: "/previous-events/"
+  - title: "Blog"
+    url: "/blog/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Feedback"
+  url: "/survey/"
+  side: right

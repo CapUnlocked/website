@@ -1,0 +1,9 @@
+- menu_name: "Credits"
+
+- name: "Built with Jekyll"
+  url: "https://jekyllrb.com/"
+  title: "Built with Jekyll"
+
+- name: Theme based on Feeling Responsive
+  url: http://phlow.github.io/feeling-responsive
+  title: Feeling Responsive
