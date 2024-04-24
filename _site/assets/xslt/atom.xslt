@@ -417,7 +417,7 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="https://unlockedcapital.eu//assets/js/javascript.min.js"></script>
+		<script src="/assets/js/javascript.min.js"></script>
 
 
 
